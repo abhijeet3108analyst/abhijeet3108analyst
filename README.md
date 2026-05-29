@@ -13,9 +13,6 @@
 📍 Maharashtra, India
 
 
-# Hi 👋, I'm Abhijeet Waghchoure
-
-## Data Analyst | SQL | Python | Power BI | Excel
 
 Aspiring Data Analyst with practical experience in SQL, Python, Power BI, Excel, and Data Analytics projects. Passionate about transforming raw data into meaningful insights and helping businesses make data-driven decisions.
 
