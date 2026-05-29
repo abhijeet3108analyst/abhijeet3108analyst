@@ -8,7 +8,7 @@
 
 📫 Email: abhijeetwaghchoure0@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/abhijeet-waghchoure
+💼 LinkedIn: www.linkedin.com/in/abhijeet-waghchoure-369374210
 
 📍 Maharashtra, India
 
@@ -136,7 +136,8 @@ Aspiring Data Analyst with practical experience in SQL, Python, Power BI, Excel,
 
 📧 Email: abhijeetwaghchoure0@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/abhijeet-waghchoure
+💼 LinkedIn: www.linkedin.com/in/abhijeet-waghchoure-369374210
+
 
 📱 Phone: 7276263696
 
